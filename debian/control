@@ -1,0 +1,13 @@
+Source: plasma-widget-quick-controls
+Section: unknown
+Priority: optional
+Maintainer: Rohan Garg <rohan@kde.org>
+Build-Depends: debhelper (>=9), cmake, extra-cmake-modules, qtbase5-dev, libkf5config-dev, qtdeclarative5-dev
+Standards-Version: 3.9.8
+Homepage: https://github.com/plasma-extensions/plasma-widget-quick-controls
+
+Package: plasma-widget-quick-controls
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: plasma 5 widget for quick controls
+ This package contains the files for plasma-widget-quick-controls
