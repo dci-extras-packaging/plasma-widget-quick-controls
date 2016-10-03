@@ -12,6 +12,7 @@ Build-Depends: cmake,
                libkf5widgetsaddons-dev,
                libkf5windowsystem-dev,
                libqt5x11extras5-dev,
+               libxcursor-dev,
                plasma-framework-dev,
                qtbase5-dev,
                qtdeclarative5-dev
