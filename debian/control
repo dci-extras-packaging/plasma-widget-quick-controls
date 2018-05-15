@@ -13,7 +13,7 @@ Build-Depends: cmake,
                libkf5windowsystem-dev,
                libqt5x11extras5-dev,
                libxcursor-dev,
-               plasma-framework-dev,
+               libkf5plasma-dev,
                qtbase5-dev,
                qtdeclarative5-dev
 Standards-Version: 3.9.8
